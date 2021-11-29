@@ -1,15 +1,29 @@
 <h1>Noé Campos </h1>
 <h2>About me</h2>
 <ul>
-  
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 <h3>
   My skillsets
 </h3>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 <h3>
   My projects
 </h3>
-
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 <h3>
   Contact me
 </h3>
