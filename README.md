@@ -13,13 +13,14 @@
 <h3>
   Contact me
 </h3>
-<p>
 
-    <a href = "mailto: campos.m.noe@gmail.com">Personal Email</a>
-  </p>
+<p>
+<a href = "mailto: campos.m.noe@gmail.com">Personal Email</a>
+</p>
+
 <p>
     <a href = "mailto: camposn@oregonstate.edu">Academic Email</a>
-  </p>
+</p>
 
 <!--
 **ncamposp/ncamposp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
