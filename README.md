@@ -1,5 +1,14 @@
-<h1> Hello, my name is Noé Campos </h1> 👋
-
+<h1>Noé Campos </h1>
+<ul>
+  
+</ul>
+<h3>
+  Contact me
+  <p>
+    <a href = "mailto: campos.m.noe@gmail.com">Personal Email</a>
+    <a href = "mailto: camposn@oregonstate.edu">Academic Email</a>
+  </p>
+</h3>
 <!--
 **ncamposp/ncamposp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
