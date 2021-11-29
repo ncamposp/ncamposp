@@ -3,7 +3,7 @@
 <ul>
   <li>I am a 4th year Oregon State University Computer Science Applied student - Target graduation: Sp. 2023</li>
   <li>Previously interned at Daimler Trucks North America from Mar. 2021 - Sept. 2021</li>
-  <li>Currently in the MECOP program <a href = "https://www.mecopinc.org/">MECOP</a> program </li>
+  <li>Currently in the <a href = "https://www.mecopinc.org/">MECOP</a> program </li>
 </ul>
 <h3>
   My skillsets
