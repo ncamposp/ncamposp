@@ -16,13 +16,11 @@
   <li></li>
 </ul>
 <h3>
-  My projects
+  My Repos/Projects
 </h3>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href = "https://github.com/ncamposp/cs381">Programming Language Fundamentals</a></li>
+  <li><a href = "https://github.com/ncamposp/cs290">Web Development</a></li>
 </ul>
 <h3>
   Contact me
