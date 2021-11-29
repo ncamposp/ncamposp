@@ -4,12 +4,14 @@
   <li>I am a 4th year Oregon State University Computer Science Applied student - Target graduation: Sp. 2023</li>
   <li>Previously interned at Daimler Trucks North America from Mar. 2021 - Sept. 2021</li>
   <li>Currently in the <a href = "https://www.mecopinc.org/">MECOP</a> program </li>
+  <li></li>
 </ul>
 <h3>
   My skillsets
 </h3>
 <ul>
   <li>Languages: c, c++, c#, JavaScript, Python, Rust, Haskell</li>
+  <li>Other: CANoe, XML, Visual Basic</li>
   <li>Linux Servers, Visual Studio, VS Code</li>
   <li>JavaScript Frameworks: handlebars, express</li>
   <li>Currently Learning: kotlin</li>
