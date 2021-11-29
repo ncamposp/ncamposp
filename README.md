@@ -12,7 +12,7 @@
 <ul>
   <li>Languages: c, c++, c#, JavaScript, Python, Rust, Haskell</li>
   <li>Other: CANoe, XML, Visual Basic</li>
-  <li>Linux Servers, Visual Studio, VS Code</li>
+  <li>IDEs/Interfaces: Linux Server (ubuntu), Visual Studio, VS Code</li>
   <li>JavaScript Frameworks: handlebars, express</li>
   <li>Currently Learning: kotlin</li>
 </ul>
