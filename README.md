@@ -2,8 +2,7 @@
 <h2>About me</h2>
 <ul>
   <li>I am a 4th year Oregon State University Computer Science Applied student - Target graduation: Sp. 2023</li>
-  <li>I have experience with various facets of programming and enjoy it all -- Web development, embedded, low-level, high-level, backend, frontend</li>
-  <li>My verstality is high but I would define my interests in high-level and frontend work. </li>
+  <li>I have experience with various facets of programming and enjoy it all -- Web development, embedded, low-level, high-level, backend, frontend - My verstality is high but I would define my interests in high-level and frontend work.</li>
   <li>Previously interned at Daimler Trucks North America from Mar. 2021 - Sept. 2021</li>
   <li>Currently in the <a href = "https://www.mecopinc.org/">MECOP</a> program - will be on my 2nd internship from Jun. 2022 - Dec. 2022</li>
   <li>Bilingual - Hablo Español!</li>
