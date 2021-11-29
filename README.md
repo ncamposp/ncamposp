@@ -36,6 +36,9 @@
 <p>
     <a href = "mailto: camposn@oregonstate.edu">Academic Email</a>
 </p>
+<p>
+    <a href = "https://www.linkedin.com/in/noe-campos-0b7847220/">linkedin</a>
+</p>
 
 <!--
 **ncamposp/ncamposp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
