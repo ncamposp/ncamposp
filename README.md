@@ -5,7 +5,9 @@
 <h3>
   Contact me
   <p>
-    <a href = "mailto: campos.m.noe@gmail.com">Personal Email</a>
+  <a href = "mailto: campos.m.noe@gmail.com">Personal Email</a>
+  </p>
+  <p>
     <a href = "mailto: camposn@oregonstate.edu">Academic Email</a>
   </p>
 </h3>
